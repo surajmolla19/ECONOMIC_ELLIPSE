@@ -1,0 +1,1 @@
+var json_Direction_3 = {"type":"FeatureCollection","name":"Direction_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"OBJECTID":"1","SHAPE_Leng":3414.6469},"geometry":{"type":"MultiLineString","coordinates":[[[88.358107215556998,22.545957898813082],[88.390589690328625,22.552344293849448]]]}}]}
